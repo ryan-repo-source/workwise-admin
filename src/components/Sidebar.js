@@ -147,7 +147,7 @@ const Sidebar = () => {
                                 </a>
                                 <ul className="sub-menu" aria-expanded="false">
                                     <li><Link to="/admin/addUser" key="t-saas">Add User</Link></li>
-                                    <li><Link to="/admin/users/3" key="t-default">Admins</Link></li>
+                                    <li><Link to="/admin/users/1" key="t-default">Admins</Link></li>
                                     <li><Link to="/admin/users/4" key="t-default">Sub Admins</Link></li>
                                     <li><Link to="/admin/users/2" key="t-default">Employer</Link></li>
                                     <li><Link to="/admin/users/0" key="t-default">Candidate</Link></li>
